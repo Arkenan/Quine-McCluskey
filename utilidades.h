@@ -13,9 +13,6 @@
 #include <bitset>
 using namespace std;
 
-const bool MAX = true;
-const bool MIN = false;
-
 //BINARIOS
 
 /* Devuelve el dígito en "posicion" (de derecha a izquierda) del entero "num" */

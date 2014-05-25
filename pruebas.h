@@ -13,5 +13,6 @@ void probarBin();
 void probarModulo();
 void probarSplit();
 void probarOrden();
+void ejecutarPruebas();
 
 #endif /* PRUEBAS_H_ */
